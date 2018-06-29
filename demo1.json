@@ -1,25 +1,20 @@
 {
     "$jason": {
-      "head": {
-        "title": "...",
-        "description": "...",
-        "icon": "...",
-        "offline": "true",
-        "styles": {
-          
+        "head": {
+            "title": "Hello World",
+            "description": "This app displays 'Hello World' on the screen",
+            "icon": "https://s3.amazonaws.com/jasonclient/hello.png",
+            "offline": "true",
+            "style": {
+                "font": "HelveticaNeue",
+                "size": "20",
+                "color": "#ff0000",
+                "padding": "10"
+            },
+            "actions": {},
+            "templates": {},
+            "data": {}
         },
-        "actions": {
-         
-        },
-        "templates": {
-          
-        },
-        "data": {
-         
-        }
-      },
-      "body": {
-        
-      }
+        "body": {}
     }
-  }
+}
