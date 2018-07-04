@@ -29,7 +29,7 @@
                     "name": "query_text",
                     "placeholder": "Search something",
                     "style": {
-                        "background": "#000000"
+                        "background": "#ffffff"
                     },
                     "action": {
                         "type": "$util.alert",
